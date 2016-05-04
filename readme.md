@@ -21,4 +21,4 @@ To review:
 
 ## If you get really stuck [Click here] (http://www.google.com) to find all the answers!
 
-! [An image of a kitty] (http://lorempixel.com/400/200)
+![An image of a kitty] (http://lorempixel.com/400/200)
